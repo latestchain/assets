@@ -1,5 +1,13 @@
 {
-  chainID: 963,
-  chainName: "LATEST",
-  symbol: "LATEST"
+    "name": "LATEST",
+    "website": "https://scan.latestchain.io/",
+    "description": "",
+    "explorer": "https://scan.latestchain.io/",
+    "research": "",
+    "symbol": "LATEST",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [        
+    ]
 }
